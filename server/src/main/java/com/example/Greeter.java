@@ -1,19 +1,19 @@
 package com.example;
 
 /**
- * Simple class
+ * Simple class.
  * @author Babacar Mbaye
  */
 public class Greeter {
 
     /**
-     * Only default constructor
+     * Only default constructor.
      */
     public Greeter() {
     }
 
     /**
-     * Simple function
+     * Simple function.
      *
      * @param someone a person's name
      * @return A string that print Hello + someone
